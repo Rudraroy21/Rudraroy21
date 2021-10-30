@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rudra Roy
+- 👀 I’m interested in Data Science, AI, Big Data and Python
+- 🌱 I’m currently learning Data Science, Python, Big Data, Mysql, R, Tableau, Hadoop, Sapark, Apache, Azure, SAS, Artificial intelligence, Deep Learning.
+- 💞️ I’m looking to collaborate on all topics related to Data Science, Artificial intelligence, Machine Learning.
+- 📫 How to reach me on my mail Id- rudra.prasad2195@gmail.com
